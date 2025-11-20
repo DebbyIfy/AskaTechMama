@@ -6,8 +6,8 @@
   <p><strong>Product Designer → Frontend Developer (in progress!)</strong></p>
   <p>Mama to Areli • Learning, building, and sharing my tech journey openly.</p>
 
-  <!-- Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=AskaTechMama&style=for-the-badge" />
+  <!-- Visitor Counter (Unique Visitors Only) -->
+  <img src="https://hits.sh/github.com/AskaTechMama.svg?style=for-the-badge&label=Unique+Visitors" />
 </div>
 
 ---
